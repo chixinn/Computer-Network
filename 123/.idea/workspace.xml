@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c6dc8b4-530c-43bb-9edb-40f56dd494a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cOgxy60rYQcylxVjcrs1EsTFWo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c6dc8b4-530c-43bb-9edb-40f56dd494a4" name="Default Changelist" comment="" />
+      <created>1590405303552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590405303552</updated>
+      <workItem from="1590405305132" duration="359000" />
+      <workItem from="1590405680122" duration="48000" />
+      <workItem from="1590406925594" duration="67000" />
+      <workItem from="1590407131059" duration="333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1590407137705">
+      <screen x="48" y="23" width="1232" height="777" />
+    </state>
+    <state x="340" y="244" key="com.intellij.ide.util.TipDialog/47.23.1233.777@47.23.1233.777" timestamp="1590406926734" />
+    <state x="341" y="244" key="com.intellij.ide.util.TipDialog/48.23.1232.777@48.23.1232.777" timestamp="1590407137705" />
+    <state x="330" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1590407295567">
+      <screen x="48" y="23" width="1232" height="777" />
+    </state>
+    <state x="328" y="62" width="670" height="676" key="search.everywhere.popup/46.23.1234.777@46.23.1234.777" timestamp="1590405707650" />
+    <state x="330" y="62" width="670" height="676" key="search.everywhere.popup/48.23.1232.777@48.23.1232.777" timestamp="1590407295567" />
+  </component>
+</project>
